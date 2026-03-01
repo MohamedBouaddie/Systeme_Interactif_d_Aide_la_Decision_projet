@@ -21,7 +21,7 @@ siad-streamlit-ahp/
 │-- requirements.txt    # Python dependencies
 │-- README.md           # Documentation
 │-- .gitignore          # Ignored files for Git
-
+```
 ## 📁 Requirements
 
 Python 3.9+ recommended
@@ -33,5 +33,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-![capture d'ecran de project](capture.jpg)
+<img alt="Capture d'ecran" src="https://github.com/MohamedBouaddie/Systeme_Interactif_d_Aide_la_Decision_projet/blob/main/capture.jpg?raw=true"/>
+<br/>
 
