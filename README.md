@@ -24,12 +24,12 @@ siad-streamlit-ahp/
 ```
 ## 📁 Requirements
 
-Python 3.9+ recommended
+Python 3.9+ recommended <br/>
 pip (Python package manager)
 
 ## 🚀 To Run Locally
 
-pip install -r requirements.txt
+pip install -r requirements.txt <br/>
 streamlit run app.py
 
 
