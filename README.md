@@ -32,3 +32,6 @@ pip (Python package manager)
 pip install -r requirements.txt
 streamlit run app.py
 
+
+![capture d'ecran de project](capture.jpg)
+
